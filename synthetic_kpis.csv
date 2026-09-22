@@ -1,0 +1,9 @@
+scenario,period,picking_time_min,travel_distance_m,orders_per_hour,order_accuracy_pct,dock_cycle_min
+Baseline,Week 1,18.4,286,21,96.8,47
+Baseline,Week 2,17.9,279,22,97.1,45
+Baseline,Week 3,18.7,292,20,96.6,48
+Baseline,Week 4,18.1,284,21,97.0,46
+Proposed,Week 1,14.2,218,27,98.0,39
+Proposed,Week 2,13.8,211,28,98.3,38
+Proposed,Week 3,14.0,214,28,98.1,37
+Proposed,Week 4,13.6,207,29,98.5,36

@@ -1,0 +1,11 @@
+Warehouse KPI Comparison — Synthetic Portfolio Scenario
+==============================================================
+Metric                           Baseline   Proposed    Change
+--------------------------------------------------------------
+Average picking time               18.27     13.90     23.9%
+Internal travel distance          285.25    212.50     25.5%
+Orders processed                   21.00     28.00     33.3%
+Order accuracy                     96.88     98.22      1.4%
+Dock cycle time                    46.50     37.50     19.4%
+
+Note: all values are synthetic and for portfolio demonstration only.
